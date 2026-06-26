@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [1720-decode-xored-array](https://github.com/26052007/LeetCode/tree/master/1720-decode-xored-array) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/26052007/LeetCode/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
