@@ -24,6 +24,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/26052007/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/26052007/LeetCode/tree/master/1720-decode-xored-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/26052007/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/26052007/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Bit Manipulation
 |  |
 | ------- |
