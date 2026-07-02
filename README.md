@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/26052007/LeetCode/tree/master/0011-container-with-most-water) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/26052007/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/26052007/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/26052007/LeetCode/tree/master/1720-decode-xored-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/26052007/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -62,5 +63,6 @@
 ## Matrix
 |  |
 | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/26052007/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/26052007/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
