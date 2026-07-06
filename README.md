@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/26052007/LeetCode/tree/master/0011-container-with-most-water) |
+| [1288-remove-covered-intervals](https://github.com/26052007/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/26052007/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/26052007/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/26052007/LeetCode/tree/master/1720-decode-xored-array) |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/26052007/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/26052007/LeetCode/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
