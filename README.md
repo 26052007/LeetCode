@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [2652-sum-multiples](https://github.com/26052007/LeetCode/tree/master/2652-sum-multiples) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/26052007/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
 | ------- |
