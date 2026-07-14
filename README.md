@@ -33,6 +33,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/26052007/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/26052007/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/26052007/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/26052007/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/26052007/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/26052007/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [2652-sum-multiples](https://github.com/26052007/LeetCode/tree/master/2652-sum-multiples) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/26052007/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/26052007/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/26052007/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -83,6 +85,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/26052007/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/26052007/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -111,4 +114,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/26052007/LeetCode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/26052007/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
