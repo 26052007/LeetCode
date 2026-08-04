@@ -10,6 +10,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/26052007/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/26052007/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/26052007/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/26052007/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/26052007/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/26052007/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/26052007/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/26052007/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/26052007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -162,6 +164,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/26052007/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/26052007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/26052007/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/26052007/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/26052007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
