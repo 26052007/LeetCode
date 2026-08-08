@@ -22,6 +22,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/26052007/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/26052007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/26052007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/26052007/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/26052007/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/26052007/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/26052007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -95,6 +96,7 @@
 | [0011-container-with-most-water](https://github.com/26052007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/26052007/LeetCode/tree/master/0125-valid-palindrome) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/26052007/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/26052007/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/26052007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -104,6 +106,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/26052007/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/26052007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/26052007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/26052007/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/26052007/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/26052007/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/26052007/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/26052007/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/26052007/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
