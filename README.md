@@ -19,6 +19,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/26052007/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/26052007/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/26052007/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/26052007/LeetCode/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/26052007/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/26052007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/26052007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -51,6 +52,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/26052007/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/26052007/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1720-decode-xored-array](https://github.com/26052007/LeetCode/tree/master/1720-decode-xored-array) |
+| [1816-truncate-sentence](https://github.com/26052007/LeetCode/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/26052007/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/26052007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/26052007/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
