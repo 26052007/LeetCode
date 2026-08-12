@@ -29,6 +29,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/26052007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/26052007/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/26052007/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3894-traffic-signal-color](https://github.com/26052007/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Counting
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/26052007/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/26052007/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/26052007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/26052007/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/26052007/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/26052007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/26052007/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Combinatorics
 |  |
 | ------- |
