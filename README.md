@@ -51,6 +51,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/26052007/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/26052007/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/26052007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/26052007/LeetCode/tree/master/1563-stone-game-v) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/26052007/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/26052007/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1720-decode-xored-array](https://github.com/26052007/LeetCode/tree/master/1720-decode-xored-array) |
@@ -85,6 +86,7 @@
 | [0877-stone-game](https://github.com/26052007/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/26052007/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/26052007/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/26052007/LeetCode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/26052007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/26052007/LeetCode/tree/master/2029-stone-game-ix) |
 | [2652-sum-multiples](https://github.com/26052007/LeetCode/tree/master/2652-sum-multiples) |
@@ -155,6 +157,7 @@
 | [0877-stone-game](https://github.com/26052007/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/26052007/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/26052007/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/26052007/LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/26052007/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/26052007/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/26052007/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -240,6 +243,7 @@
 | [0877-stone-game](https://github.com/26052007/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/26052007/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/26052007/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/26052007/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/26052007/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
