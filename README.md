@@ -61,6 +61,7 @@
 | [2029-stone-game-ix](https://github.com/26052007/LeetCode/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/26052007/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/26052007/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/26052007/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/26052007/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/26052007/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/26052007/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/26052007/LeetCode/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/26052007/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/26052007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/26052007/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Combinatorics
