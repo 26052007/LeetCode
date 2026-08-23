@@ -20,6 +20,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/26052007/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/26052007/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/26052007/LeetCode/tree/master/1816-truncate-sentence) |
+| [1927-sum-game](https://github.com/26052007/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/26052007/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/26052007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/26052007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -90,6 +91,7 @@
 | [1140-stone-game-ii](https://github.com/26052007/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/26052007/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/26052007/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/26052007/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/26052007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/26052007/LeetCode/tree/master/2029-stone-game-ix) |
 | [2652-sum-multiples](https://github.com/26052007/LeetCode/tree/master/2652-sum-multiples) |
@@ -122,6 +124,7 @@
 | [0011-container-with-most-water](https://github.com/26052007/LeetCode/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/26052007/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/26052007/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1927-sum-game](https://github.com/26052007/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/26052007/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/26052007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/26052007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -253,6 +256,7 @@
 | [1140-stone-game-ii](https://github.com/26052007/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/26052007/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/26052007/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/26052007/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/26052007/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
