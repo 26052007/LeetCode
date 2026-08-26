@@ -23,6 +23,7 @@
 | [1816-truncate-sentence](https://github.com/26052007/LeetCode/tree/master/1816-truncate-sentence) |
 | [1927-sum-game](https://github.com/26052007/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/26052007/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/26052007/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/26052007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/26052007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/26052007/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -287,4 +288,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/26052007/LeetCode/tree/master/2029-stone-game-ix) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/26052007/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
