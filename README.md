@@ -118,6 +118,7 @@
 | [1927-sum-game](https://github.com/26052007/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/26052007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/26052007/LeetCode/tree/master/2029-stone-game-ix) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/26052007/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/26052007/LeetCode/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/26052007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/26052007/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
