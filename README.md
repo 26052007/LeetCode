@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/26052007/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/26052007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/26052007/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/26052007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/26052007/LeetCode/tree/master/0709-to-lower-case) |
@@ -203,6 +204,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/26052007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/26052007/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/26052007/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/26052007/LeetCode/tree/master/1140-stone-game-ii) |
@@ -357,5 +359,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/26052007/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/26052007/LeetCode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/26052007/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/26052007/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
