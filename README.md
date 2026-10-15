@@ -8,6 +8,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/26052007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/26052007/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/26052007/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/26052007/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/26052007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/26052007/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/26052007/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -87,6 +88,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/26052007/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/26052007/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/26052007/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/26052007/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/26052007/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/26052007/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/26052007/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -335,6 +337,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/26052007/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/26052007/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
 |  |
@@ -407,4 +410,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/26052007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/26052007/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/26052007/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
